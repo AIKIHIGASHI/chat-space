@@ -61,7 +61,7 @@
   height: 100%;
   &__group-info{
     position: relative;
-    padding: 0 40px;
+    padding: 0 40px ;
     background-color: #fff;
     border-bottom: 1px solid #eee;
     height: 100px;
@@ -87,7 +87,7 @@
   &__massage-list{
     background-color: #fafafa;
     height: calc(100% - 190px);
-    padding: 0 40px;
+    padding: 35px 40px 0;
     overflow: scroll;
     .block {
       font-size: 16px;
